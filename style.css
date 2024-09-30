@@ -1,0 +1,29 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+
+}
+
+.img {
+    float: right;
+    width: 25%;
+    background: black;
+    margin: auto;
+    padding: 15px 15px;
+}
+.info{
+    font-size: large;
+}
+.about-me {
+    text-align: center;
+}
+
+a {
+    display: block;
+    margin: 10px 10px 10px 0;
+}
+
+.umsf {
+    font-size: large;
+    color: purple;
+}
